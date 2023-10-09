@@ -1,0 +1,14 @@
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\bin\Debug\net6.0\Task2PN.exe
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\bin\Debug\net6.0\Task2PN.deps.json
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\bin\Debug\net6.0\Task2PN.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\bin\Debug\net6.0\Task2PN.dll
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\bin\Debug\net6.0\Task2PN.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.dll
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\refint\Task2PN.dll
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.pdb
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\Task2PN.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Desktop\Task2PN\Task2PN\obj\Debug\net6.0\ref\Task2PN.dll
